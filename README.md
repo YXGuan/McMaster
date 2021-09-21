@@ -38,6 +38,24 @@ https://usernmae.portal.cloudappsecurity.com/#/dashboard
 
 My learning log
 
+# Honey pot | Sept 24th
+https://github.com/cowrie/cowrie
+What is Cowrie
+
+Cowrie is a medium to high interaction SSH and Telnet honeypot designed to log brute force attacks and the shell interaction performed by the attacker. In medium interaction mode (shell) it emulates a UNIX system in Python, in high interaction mode (proxy) it functions as an SSH and telnet proxy to observe attacker behavior to another system.
+
+![Udacity](https://user-images.githubusercontent.com/55643200/134197106-d078a537-6ab1-465c-8d7a-51fbd01f3a93.png)
+What is a DMZ in networking?
+
+In computer networks, a DMZ, or demilitarized zone, is a physical or logical subnet that separates a local area network (LAN) from other untrusted networks -- usually, the public internet. DMZs are also known as perimeter networks or screened subnetworks.
+
+https://www.virustotal.com/gui/home/upload
+Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community
+
+https://www.chappell-university.com/post/geoip-mapping-in-wireshark
+https://www.wireshark.org/lists/wireshark-dev/200902/msg00154.html
+
+
 # Sniffing and packet capturing | Sept 20th
 https://www.youtube.com/watch?v=4t4kBkMsDbQ
 https://www.youtube.com/watch?v=-rSqbgI7oZM
