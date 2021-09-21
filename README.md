@@ -45,7 +45,7 @@ tools used: Ettercap, WireShark, NMap, Linux Shell.
 
 
 
-# My thoughts Sept- 21st
+# Security interview | Sept 8th
 If you are new to security and want to land your 1st job in security (just like me) I would highly recommend you to get started with preparing for interview questions. I just did my 1st cyber security interview  and the interviewer asked me 3 questions:
 - how to secure a database
 - what's the difference between symmetrical encryption and asymmetrical encryption
