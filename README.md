@@ -61,6 +61,12 @@ https://www.youtube.com/watch?v=4t4kBkMsDbQ
 https://www.youtube.com/watch?v=-rSqbgI7oZM
 tools used: Ettercap, WireShark, NMap, Linux Shell.
 
+nmap -sn 192.168.0.1/24
+
+sudo ettercap -T -S -i wlp0s20f3 -M arp:remote /192.168.0.1// /192.168.0.81//
+
+(new ternmial)
+sudo wireshark
 
 
 # Security interview | Sept 8th
