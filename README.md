@@ -1,12 +1,21 @@
 note: this page is under construction, feedbacks are always welcomed!
 
+mission statement: There are a lot of amazing cyber security learning resources, my goal is NOT to re-invent the wheels, but to share those resources. 
+
 # resources:
 ![image](https://user-images.githubusercontent.com/55643200/133610953-34969014-68dc-4e5e-89ee-72f626e53e74.png)
 
 https://www.nist.gov/cyberframework 
 
+OWASP most common attacks
+https://owasp.org/www-project-top-ten/
+
+
+
 
 # Microsoft Security courses:
+free courses with certificates!
+
 https://docs.microsoft.com/en-us/learn/modules/security-in-m365/ 
 
 https://docs.microsoft.com/en-ca/learn/modules/explore-security-dashboard/ 
@@ -26,6 +35,27 @@ https://compliance.microsoft.com/homepage
 https://usernmae.portal.cloudappsecurity.com/#/dashboard 
 
 ------
+
+My learning log
+
+# Sniffing and packet capturing | Sept 20th
+https://www.youtube.com/watch?v=4t4kBkMsDbQ
+https://www.youtube.com/watch?v=-rSqbgI7oZM
+tools used: Ettercap, WireShark, NMap, Linux Shell.
+
+
+
+# My thoughts Sept- 21st
+If you are new to security and want to land your 1st job in security (just like me) I would highly recommend you to get started with preparing for interview questions. I just did my 1st cyber security interview  and the interviewer asked me 3 questions:
+- how to secure a database
+- what's the difference between symmetrical encryption and asymmetrical encryption
+- how would you design a security system
+I was absolutely destroyed... Check out this YouTube channel:
+https://www.youtube.com/watch?v=sFIbPS2pCzk
+
+
+------
+Original staff
 
 ### IoT Security - Node Red
 
