@@ -1,8 +1,9 @@
 ![image](https://user-images.githubusercontent.com/55643200/135366675-29992b6d-20e8-4aff-be42-5a8c49ae3a1c.png)
+### McMaster Engieering Cyber Security Curriculum Development
 
 note: this page is under construction, feedbacks are always welcomed! Have question? send us a message: guany27@mcmaster.ca
 
-mission statement: There are a lot of amazing cyber security learning resources, my goal is NOT to re-invent the wheels, but to share those resources. 
+mission statement: There are a lot of amazing cyber security learning resources, my goal is NOT to re-invent the wheels, but to share those resources and my learning journey with you. 
 
 # resources:
 ![image](https://user-images.githubusercontent.com/55643200/133610953-34969014-68dc-4e5e-89ee-72f626e53e74.png)
