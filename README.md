@@ -15,6 +15,10 @@ Suggestions: I think there are 3 learning phases (can also be done simultaneousl
 
 https://www.nist.gov/cyberframework 
 
+Python Penetration Testing
+https://www.youtube.com/watch?v=3Kq1MIfTWCE
+
+
 OWASP most common attacks
 https://owasp.org/www-project-top-ten/
 
