@@ -5,6 +5,11 @@ note: this page is under construction, feedbacks are always welcomed! Have quest
 
 mission statement: There are a lot of amazing cyber security learning resources, my goal is NOT to re-invent the wheels, but to share those resources and my learning journey with you. 
 
+Suggestions: I think there are 3 learning phases: 
+- phase 1: foster interest by exploring the technology, read books, coffee-chatting with professionals
+- phase 2: getting more serious: join a security bounty program, 
+- phase 3: job/co-op
+
 # resources:
 ![image](https://user-images.githubusercontent.com/55643200/133610953-34969014-68dc-4e5e-89ee-72f626e53e74.png)
 
@@ -14,6 +19,8 @@ OWASP most common attacks
 https://owasp.org/www-project-top-ten/
 
 
+Elastic Search:
+https://www.elastic.co/security
 
 
 # Microsoft Security courses:
@@ -37,11 +44,11 @@ https://compliance.microsoft.com/homepage
 
 https://usernmae.portal.cloudappsecurity.com/#/dashboard 
 
-------
+----------------------------------------------
 
 My learning log
 
-# Honey pot | Sept 24th
+# Honey pot | Sept 27th
 https://github.com/cowrie/cowrie
 What is Cowrie
 
@@ -61,17 +68,27 @@ Analyze suspicious files and URLs to detect types of malware, automatically shar
 https://www.chappell-university.com/post/geoip-mapping-in-wireshark
 https://www.wireshark.org/lists/wireshark-dev/200902/msg00154.html
 
+# Chat with Alex
+
+key points:
+
+- Certification matters: A good example is: PCI-DSS Payment Card Industry Data Security Standard 
+- Legacy weakness: old telnet, old email protacals can bypass security rules
+- Cyber security itself is preventative, always anticipating something bad, not a lot of details. By contrast, developers work on creating more "interesting" tools and complicated Python scripts.
 
 # Sniffing and packet capturing | Sept 20th
 https://www.youtube.com/watch?v=4t4kBkMsDbQ
 https://www.youtube.com/watch?v=-rSqbgI7oZM
 tools used: Ettercap, WireShark, NMap, Linux Shell.
 
+Use nmap to scan your local router
 nmap -sn 192.168.0.1/24
 
+Ettercap is a man in the attack tool. The below command will sniff ( collect packet) from the local ip address 192.168.0.81
 sudo ettercap -T -S -i wlp0s20f3 -M arp:remote /192.168.0.1// /192.168.0.81//
 
 (new ternmial)
+Use Wireshark to furthure capture and analyze packets
 sudo wireshark
 
 
@@ -85,7 +102,7 @@ https://www.youtube.com/watch?v=sFIbPS2pCzk
 
 
 ------
-Original staff
+
 
 ### IoT Security - Node Red
 
