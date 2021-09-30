@@ -1,4 +1,6 @@
-note: this page is under construction, feedbacks are always welcomed!
+![image](https://user-images.githubusercontent.com/55643200/135366675-29992b6d-20e8-4aff-be42-5a8c49ae3a1c.png)
+
+note: this page is under construction, feedbacks are always welcomed! Have question? send us a message: guany27@mcmaster.ca
 
 mission statement: There are a lot of amazing cyber security learning resources, my goal is NOT to re-invent the wheels, but to share those resources. 
 
@@ -41,6 +43,9 @@ My learning log
 # Honey pot | Sept 24th
 https://github.com/cowrie/cowrie
 What is Cowrie
+
+https://www.youtube.com/watch?v=VoyS0euqHsw
+deploying honey pot with T-pot; T-Pot is developed by german IT giant Deutsche Telekom
 
 Cowrie is a medium to high interaction SSH and Telnet honeypot designed to log brute force attacks and the shell interaction performed by the attacker. In medium interaction mode (shell) it emulates a UNIX system in Python, in high interaction mode (proxy) it functions as an SSH and telnet proxy to observe attacker behavior to another system.
 
