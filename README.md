@@ -5,10 +5,10 @@ note: this page is under construction, feedbacks are always welcomed! Have quest
 
 mission statement: There are a lot of amazing cyber security learning resources, my goal is NOT to re-invent the wheels, but to share those resources and my learning journey with you. 
 
-Suggestions: I think there are 3 learning phases: 
-- phase 1: foster interest by exploring the technology, read books, coffee-chatting with professionals
-- phase 2: getting more serious: join a security bounty program, 
-- phase 3: job/co-op
+Suggestions: I think there are 3 learning phases (can also be done simultaneously): 
+- phase 1: foster interest by exploring the technology, watch YouTube, read books, coffee-chatting with professionals.
+- phase 2: getting more serious: join a security bounty hunting program, get certified.
+- phase 3: job/co-op.
 
 # resources:
 ![image](https://user-images.githubusercontent.com/55643200/133610953-34969014-68dc-4e5e-89ee-72f626e53e74.png)
