@@ -75,6 +75,7 @@ key points:
 - Certification matters: A good example is: PCI-DSS Payment Card Industry Data Security Standard 
 - Legacy weakness: old telnet, old email protacals can bypass security rules
 - Cyber security itself is preventative, always anticipating something bad, not a lot of details. By contrast, developers work on creating more "interesting" tools and complicated Python scripts.
+- Don't perform any cyber security task against organizations withou offical consent, whether your intention is good or bad. Follow complience and laws!
 
 # Sniffing and packet capturing | Sept 20th
 https://www.youtube.com/watch?v=4t4kBkMsDbQ
