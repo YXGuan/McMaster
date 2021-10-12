@@ -52,6 +52,24 @@ https://usernmae.portal.cloudappsecurity.com/#/dashboard
 
 My learning log
 
+# XSS | Oct 12th
+![image](https://user-images.githubusercontent.com/55643200/136983038-2ae445f5-d47c-4b84-b8ba-6111c738c22e.png)
+
+![image](https://user-images.githubusercontent.com/55643200/136983306-a4935d1a-3b1b-4f80-9c3c-9fcc389c4428.png)
+
+
+# Nikto | Oct 9th
+
+Metaploit
+https://www.metasploit.com/
+Pen-test framework
+
+website vulnerability scanner
+https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/
+
+
+
+
 # Honey pot | Sept 27th
 https://github.com/cowrie/cowrie
 What is Cowrie
